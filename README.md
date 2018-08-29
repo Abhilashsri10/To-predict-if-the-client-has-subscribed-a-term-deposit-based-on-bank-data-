@@ -2,7 +2,7 @@
 you can download the dataset from here-> https://raw.githubusercontent.com/madmashup/targeted-marketing-predictive-engine/master/banking.csv
 the above dataset is a labeled dataset with 2 class 0 and 1.where 1 means the client subscribed and 0 stands for not.
 
-In  this  project,the aim  to increase  campaign  efficiency  by  identifying  the  main  factors 
+In  this  project,the aim is to increase  campaign  efficiency  by  identifying  the  main  factors 
 that  affect  the  success  of  a  campaign  and  predicting  whether  the  campaign  will  be 
 successful to a certain client, namely, whether the client will subscribe a term deposit.
 
